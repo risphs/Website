@@ -80,11 +80,11 @@ h2 {
         display: flex;
         text-align: left;
     } */
-    .h1 {
+    h1 {
         margin-left: -1184px;
         font-size: 48px;
     }
-    .h2 {
+    h2 {
         margin-left: -1184px;
         font-size: 25px;
     }
