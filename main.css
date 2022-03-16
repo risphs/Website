@@ -69,6 +69,7 @@ h2 {
     }
 }
 
+/*
 @media only screen and (min-width: 1920px) {
     p {
         margin-left: 285px;
@@ -77,10 +78,6 @@ h2 {
         display: flex;
         text-align: left;
     }
-    /* .breif_about_me {
-        display: flex;
-        text-align: left;
-    } */
     h1 {
         margin-left: -1184px;
         font-size: 48px;
@@ -95,10 +92,15 @@ h2 {
         margin-top: -77px;
     }
 }
+*/
 
-@media only screen and (min-width: 3840px) {
+/*
+E
+*/
+
+/* @media only screen and (min-width: 3840px) {
     h1 {
-        margin-left: -1830px;
+        margin-left: -3095px;
     }
     h2 {
         margin-left: -1830px;
@@ -106,4 +108,4 @@ h2 {
     .github_button_image {
         margin-left: -1633px;
     }
-}
+} */
